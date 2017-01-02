@@ -1,0 +1,67 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:MODS="http://www.loc.gov/mods/v3"><dmdSec ID="MODSMD">
+    <mdWrap LABEL="Bibliographic meta-data of the printed version" MDTYPE="MODS" MIMETYPE="text/xml">
+      <xmlData>
+        <MODS:mods version="3.1">
+          <MODS:titleInfo>
+            <MODS:nonSort>A </MODS:nonSort>
+            <MODS:title>narrative of the loss of the Winterton East Indiaman, wrecked on the coast of Madagascar in 1792; and of the sufferings connected with that event</MODS:title>
+            <MODS:subTitle>To which is subjoined, a short account of the natives of Madagascar, with suggestions as to their civilization</MODS:subTitle>
+          </MODS:titleInfo>
+          <MODS:name type="personal">
+            <MODS:namePart>Buchan, George.</MODS:namePart>
+            <MODS:role>
+              <MODS:roleTerm authority="marcrelator" type="text">creator</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:typeOfResource>text</MODS:typeOfResource>
+          <MODS:originInfo>
+            <MODS:place>
+              <MODS:placeTerm authority="marccountry" type="code">stk</MODS:placeTerm>
+            </MODS:place>
+            <MODS:place>
+              <MODS:placeTerm type="text">Edinburgh</MODS:placeTerm>
+            </MODS:place>
+            <MODS:publisher>printed for Waugh and Innes, Edinburgh: J. Hatchard and Son, L. B. Seeley, and T. Hamilton, London</MODS:publisher>
+            <MODS:dateIssued>1820</MODS:dateIssued>
+            <MODS:issuance>monographic</MODS:issuance>
+          </MODS:originInfo>
+          <MODS:language>
+            <MODS:languageTerm authority="iso639-2b" type="code">eng</MODS:languageTerm>
+          </MODS:language>
+          <MODS:physicalDescription>
+            <MODS:extent>ix,[3],256,[2]p.,[3]leaves of plates : ill., folded map ; 22cm. 8°.</MODS:extent>
+          </MODS:physicalDescription>
+          <MODS:note type="statement of responsibility">By a passenger in the ship.</MODS:note>
+          <MODS:note>Author identified as George Buchan (BMC, Halkett &amp; Laing)</MODS:note>
+          <MODS:note>Printer named on t.p. verso.</MODS:note>
+          <MODS:subject>
+            <MODS:name type="corporate">
+              <MODS:namePart>Winterton (Ship)</MODS:namePart>
+            </MODS:name>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:topic>Shipwrecks</MODS:topic>
+            <MODS:geographic>Madagascar</MODS:geographic>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:geographic>Madagascar</MODS:geographic>
+            <MODS:topic>Description and travel</MODS:topic>
+          </MODS:subject>
+          <MODS:location>
+            <MODS:physicalLocation>British Library OC T 39943</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 10095.dd.6.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:recordInfo>
+            <MODS:recordContentSource authority="marcorg">Uk</MODS:recordContentSource>
+            <MODS:recordCreationDate encoding="w3cdtf">1988-10-10</MODS:recordCreationDate>
+            <MODS:recordChangeDate encoding="iso8601">20070320181845.0</MODS:recordChangeDate>
+            <MODS:recordIdentifier source="Uk">011844350</MODS:recordIdentifier>
+          </MODS:recordInfo>
+          <MODS:accessCondition type="Copyright Status">Out of Copyright</MODS:accessCondition>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  </mets>
