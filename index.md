@@ -1,3 +1,7 @@
+---
+layout: default
+title: narrative of the loss of the Winterton East Indiaman, wrecked on the coast of Madagascar in 1792; and of the sufferings connected with that event
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
